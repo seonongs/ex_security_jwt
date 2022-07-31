@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@112.217.238.122:1521:linkdev
+    username: NRF_STAT
+    password: NRF_STAT
